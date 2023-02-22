@@ -521,7 +521,7 @@ def sendEmail(name,email,issue):
     smtp_ssl_port = 465
     username = e_email
     password = e_pw
-    sender = 'MENKHETTEAM@GMAIL.COM'
+    sender = e_email
     targets = [email]
 
     msg = MIMEText(f'''
