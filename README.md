@@ -12,7 +12,7 @@ This project demonstrates the potential of chatbots to improve customer experien
 - Rule-based approach for understanding user inputs and providing appropriate responses
 - (TO BE ADDED) Real-time tracking of orders through integrations with Menkhet's order management system
 
-## Technologies Used
+## Built With
 
 - Python
 - tkinter
